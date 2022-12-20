@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full-stack developer!
 - 🌱 I’m currently learning Node.JS, Python, HTML, CSS, PHP..
 - 💞️ I’m looking to collaborate on projects that will help me improve my skills.
-- 📫 How to reach me 
+- 📫 You can reach on Gitter
 
 <!---
 HyperboreanOP/HyperboreanOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
